@@ -1,0 +1,14 @@
+R_DEF: Internal format may change without notice
+local
+drawable download_for_offline_24px
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable icon_cancel_circle
+drawable icon_field_ministry
+drawable icon_living
+drawable icon_tesaures
+drawable music_note
+drawable offline_pin_24px
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name

@@ -1,0 +1,24 @@
+CREATE TABLE AssignsTable (
+    idAssign INTEGER PRIMARY KEY NOT NULL,
+    title TEXT NOT NULL,
+    name TEXT,
+    assistant TEXT,
+    part_no INTEGER NOT NULL,
+    give_in TEXT NOT NULL,
+    meeting_part TEXT NOT NULL,
+    assignament_type TEXT NOT NULL,
+    fgWeeklyMeeting INTEGER NOT NULL,
+
+    FOREIGN KEY (fgWeeklyMeeting) REFERENCES WeeksTable(idWeek)
+
+);
+
+insertAssignament:
+INSERT OR IGNORE INTO AssignsTable(idAssign,title,name,assistant,part_no,give_in,
+meeting_part,assignament_type,fgWeeklyMeeting)
+VALUES ? ;
+
+allAssignWeekkSchedule:
+SELECT * FROM AssignsTable JOIN WeeksTable
+ON AssignsTable.fgWeeklyMeeting = WeeksTable.idWeek
+WHERE WeeksTable.idWeek =? ORDER BY WeeksTable.date_week;

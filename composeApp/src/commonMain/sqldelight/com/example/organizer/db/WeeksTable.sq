@@ -1,0 +1,23 @@
+CREATE TABLE WeeksTable (
+    idWeek INTEGER PRIMARY KEY NOT NULL,
+    date_week TEXT NOT NULL,
+    title_meeting TEXT NOT NULL,
+    weekly_reading TEXT NOT NULL,
+    songs_list TEXT NOT NULL,
+    meeting_president TEXT,
+    initial_prayer TEXT ,
+    final_prayer TEXT ,
+    link_meeting TEXT NOT NULL,
+    fgMonthlyMeeting INTEGER NOT NULL,
+    FOREIGN KEY (fgMonthlyMeeting) REFERENCES MonthsTable(idMonthlyMeeting)
+);
+
+CREATE INDEX weeklyMeetingSchedule_title_meeting ON WeeksTable(title_meeting);
+
+insertWeekShedule:
+INSERT OR IGNORE INTO WeeksTable(idWeek,date_week,title_meeting,weekly_reading,
+songs_list,meeting_president,initial_prayer,final_prayer,link_meeting,fgMonthlyMeeting)
+VALUES ? ;
+
+allSimpleWeek:
+SELECT idWeek,date_week,title_meeting FROM WeeksTable WHERE fgMonthlyMeeting =? ORDER BY date_week;

@@ -1,0 +1,4 @@
+org.yomasoftware.project.test.composeApp-androidTest-0 C:\Users\JACTJ\ProyectosProgramacion\Kotlin MultiPlatform\MeetingWorkbooksOrganizer\composeApp\build\generated\res\resValues\androidTest\debug
+org.yomasoftware.project.test.composeApp-mergeDebugAndroidTestResources-1 C:\Users\JACTJ\ProyectosProgramacion\Kotlin MultiPlatform\MeetingWorkbooksOrganizer\composeApp\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+org.yomasoftware.project.test.composeApp-mergeDebugAndroidTestResources-2 C:\Users\JACTJ\ProyectosProgramacion\Kotlin MultiPlatform\MeetingWorkbooksOrganizer\composeApp\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+org.yomasoftware.project.test.composeApp-debugAndroidTest-3 C:\Users\JACTJ\ProyectosProgramacion\Kotlin MultiPlatform\MeetingWorkbooksOrganizer\composeApp\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources

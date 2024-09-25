@@ -1,0 +1,68 @@
+org.yomasoftware.project.composeApp-emoji2-1.3.0-0 C:\Users\JACTJ\.gradle\caches\transforms-4\078da6faa03f26ad0bcc093ea97f5af8\transformed\emoji2-1.3.0\res
+org.yomasoftware.project.composeApp-lifecycle-viewmodel-release-1 C:\Users\JACTJ\.gradle\caches\transforms-4\09081ab631b9eb679037565269164d22\transformed\lifecycle-viewmodel-release\res
+org.yomasoftware.project.composeApp-savedstate-1.2.1-2 C:\Users\JACTJ\.gradle\caches\transforms-4\093d00045d5bb59aad2c96c8f77a604a\transformed\savedstate-1.2.1\res
+org.yomasoftware.project.composeApp-customview-poolingcontainer-1.0.0-3 C:\Users\JACTJ\.gradle\caches\transforms-4\0a73e1e27a310d07ee484f7df865f6a4\transformed\customview-poolingcontainer-1.0.0\res
+org.yomasoftware.project.composeApp-animation-core-release-4 C:\Users\JACTJ\.gradle\caches\transforms-4\11d27bcc3866a0c0031b46568c36e24e\transformed\animation-core-release\res
+org.yomasoftware.project.composeApp-lifecycle-viewmodel-compose-release-5 C:\Users\JACTJ\.gradle\caches\transforms-4\1338b4ea1104d4cc807fe19aa25edd1d\transformed\lifecycle-viewmodel-compose-release\res
+org.yomasoftware.project.composeApp-core-ktx-1.13.1-6 C:\Users\JACTJ\.gradle\caches\transforms-4\14d30a16c913b9c09f9a3f098c31c4aa\transformed\core-ktx-1.13.1\res
+org.yomasoftware.project.composeApp-lifecycle-livedata-core-2.8.5-7 C:\Users\JACTJ\.gradle\caches\transforms-4\177a006715616d0fee998a1e4a6517f6\transformed\lifecycle-livedata-core-2.8.5\res
+org.yomasoftware.project.composeApp-core-1.13.1-8 C:\Users\JACTJ\.gradle\caches\transforms-4\187a4427beb9a73b6106b550473b9191\transformed\core-1.13.1\res
+org.yomasoftware.project.composeApp-appcompat-resources-1.6.1-9 C:\Users\JACTJ\.gradle\caches\transforms-4\1bc4bcc886610167271a9a417a81b575\transformed\appcompat-resources-1.6.1\res
+org.yomasoftware.project.composeApp-activity-ktx-1.9.2-10 C:\Users\JACTJ\.gradle\caches\transforms-4\21643439642a6e95a585dfcf8ddc5ec0\transformed\activity-ktx-1.9.2\res
+org.yomasoftware.project.composeApp-ui-tooling-data-release-11 C:\Users\JACTJ\.gradle\caches\transforms-4\25e09b68d0474ef290285c79a42bfc29\transformed\ui-tooling-data-release\res
+org.yomasoftware.project.composeApp-ui-text-release-12 C:\Users\JACTJ\.gradle\caches\transforms-4\2d3ced76506b7604c75c198003228b0e\transformed\ui-text-release\res
+org.yomasoftware.project.composeApp-animation-release-13 C:\Users\JACTJ\.gradle\caches\transforms-4\312004580f73afeb8774038eb7533072\transformed\animation-release\res
+org.yomasoftware.project.composeApp-lifecycle-runtime-ktx-release-14 C:\Users\JACTJ\.gradle\caches\transforms-4\333fff907f04f09697c32d6280199b5c\transformed\lifecycle-runtime-ktx-release\res
+org.yomasoftware.project.composeApp-activity-1.9.2-15 C:\Users\JACTJ\.gradle\caches\transforms-4\34f1ed6e3ec697d8a7b71bca2b8a4d64\transformed\activity-1.9.2\res
+org.yomasoftware.project.composeApp-sqlite-2.4.0-16 C:\Users\JACTJ\.gradle\caches\transforms-4\359db78c3c13346a04ce762ee30420ea\transformed\sqlite-2.4.0\res
+org.yomasoftware.project.composeApp-appcompat-1.6.1-17 C:\Users\JACTJ\.gradle\caches\transforms-4\366657c90b1911f62f8acc0a60d302fa\transformed\appcompat-1.6.1\res
+org.yomasoftware.project.composeApp-core-runtime-2.2.0-18 C:\Users\JACTJ\.gradle\caches\transforms-4\3d4b0c57fe1f7e0c17d2111bfddb9bc6\transformed\core-runtime-2.2.0\res
+org.yomasoftware.project.composeApp-ui-tooling-preview-release-19 C:\Users\JACTJ\.gradle\caches\transforms-4\423a87654ff7da0503c0f19518fca848\transformed\ui-tooling-preview-release\res
+org.yomasoftware.project.composeApp-lifecycle-process-2.8.5-20 C:\Users\JACTJ\.gradle\caches\transforms-4\4d97d337be1f4731580cf00a1c5820e6\transformed\lifecycle-process-2.8.5\res
+org.yomasoftware.project.composeApp-ui-geometry-release-21 C:\Users\JACTJ\.gradle\caches\transforms-4\5a9d30ee8ab7619a1ed42f4ea1885286\transformed\ui-geometry-release\res
+org.yomasoftware.project.composeApp-savedstate-ktx-1.2.1-22 C:\Users\JACTJ\.gradle\caches\transforms-4\636d2a0697a6c99cc8082eca12d8bb54\transformed\savedstate-ktx-1.2.1\res
+org.yomasoftware.project.composeApp-lifecycle-runtime-compose-release-23 C:\Users\JACTJ\.gradle\caches\transforms-4\671f4b9cd37ec66c870243a42e8a15a4\transformed\lifecycle-runtime-compose-release\res
+org.yomasoftware.project.composeApp-activity-compose-1.9.2-24 C:\Users\JACTJ\.gradle\caches\transforms-4\7006c21c9e482a06aa2a12247b6b9a9f\transformed\activity-compose-1.9.2\res
+org.yomasoftware.project.composeApp-lifecycle-viewmodel-ktx-2.8.5-25 C:\Users\JACTJ\.gradle\caches\transforms-4\71269df85e8b88432d923339cd0eb5e5\transformed\lifecycle-viewmodel-ktx-2.8.5\res
+org.yomasoftware.project.composeApp-fragment-1.6.2-26 C:\Users\JACTJ\.gradle\caches\transforms-4\721dcbb2885916b7b9eb672d3ff3b932\transformed\fragment-1.6.2\res
+org.yomasoftware.project.composeApp-material-icons-extended-release-27 C:\Users\JACTJ\.gradle\caches\transforms-4\72fe824a0120828da66604b6cde14f10\transformed\material-icons-extended-release\res
+org.yomasoftware.project.composeApp-navigation-common-2.8.0-28 C:\Users\JACTJ\.gradle\caches\transforms-4\78e103f086f39056477ed22437e52b59\transformed\navigation-common-2.8.0\res
+org.yomasoftware.project.composeApp-lifecycle-runtime-release-29 C:\Users\JACTJ\.gradle\caches\transforms-4\79064bf124b5a28558a631abffc4a718\transformed\lifecycle-runtime-release\res
+org.yomasoftware.project.composeApp-startup-runtime-1.1.1-30 C:\Users\JACTJ\.gradle\caches\transforms-4\7f5e75f2f5fd9ccb41d51c0ca174e41e\transformed\startup-runtime-1.1.1\res
+org.yomasoftware.project.composeApp-navigation-runtime-2.8.0-31 C:\Users\JACTJ\.gradle\caches\transforms-4\809a2409ec1322d06a45193672f2b2f0\transformed\navigation-runtime-2.8.0\res
+org.yomasoftware.project.composeApp-foundation-release-32 C:\Users\JACTJ\.gradle\caches\transforms-4\865785edee8517342ac43ac80399823e\transformed\foundation-release\res
+org.yomasoftware.project.composeApp-runtime-release-33 C:\Users\JACTJ\.gradle\caches\transforms-4\9093fb19e588fb82c10e6e44d169f7e3\transformed\runtime-release\res
+org.yomasoftware.project.composeApp-lifecycle-viewmodel-savedstate-2.8.5-34 C:\Users\JACTJ\.gradle\caches\transforms-4\94097889640d4715982dcd389470da97\transformed\lifecycle-viewmodel-savedstate-2.8.5\res
+org.yomasoftware.project.composeApp-annotation-experimental-1.4.1-35 C:\Users\JACTJ\.gradle\caches\transforms-4\9ea3a60d9c9f879c0e029ddf8a377705\transformed\annotation-experimental-1.4.1\res
+org.yomasoftware.project.composeApp-navigation-common-ktx-2.8.0-36 C:\Users\JACTJ\.gradle\caches\transforms-4\9f02ad6f94206925b45a373d46d661ff\transformed\navigation-common-ktx-2.8.0\res
+org.yomasoftware.project.composeApp-navigation-runtime-ktx-2.8.0-37 C:\Users\JACTJ\.gradle\caches\transforms-4\a0d428582195731b8db572f85d5b591e\transformed\navigation-runtime-ktx-2.8.0\res
+org.yomasoftware.project.composeApp-profileinstaller-1.3.1-38 C:\Users\JACTJ\.gradle\caches\transforms-4\aa6247d0118b55aaaf26cd48c4e95355\transformed\profileinstaller-1.3.1\res
+org.yomasoftware.project.composeApp-runtime-saveable-release-39 C:\Users\JACTJ\.gradle\caches\transforms-4\adbe4a327b8f40e0c77d2559db41aade\transformed\runtime-saveable-release\res
+org.yomasoftware.project.composeApp-ui-release-40 C:\Users\JACTJ\.gradle\caches\transforms-4\af9e1cfa36fc30f0fea4a1376a628f7c\transformed\ui-release\res
+org.yomasoftware.project.composeApp-sqlite-framework-2.4.0-41 C:\Users\JACTJ\.gradle\caches\transforms-4\afc1a0dffc0c449de22174d6e0d7bb63\transformed\sqlite-framework-2.4.0\res
+org.yomasoftware.project.composeApp-material3-release-42 C:\Users\JACTJ\.gradle\caches\transforms-4\b0b85c0d7316e0cffe5f9fd2d1ed3a9b\transformed\material3-release\res
+org.yomasoftware.project.composeApp-ui-graphics-release-43 C:\Users\JACTJ\.gradle\caches\transforms-4\c40bc8a745f56d6a85547b116671571c\transformed\ui-graphics-release\res
+org.yomasoftware.project.composeApp-ui-tooling-release-44 C:\Users\JACTJ\.gradle\caches\transforms-4\c808518074b65772f4921e40673cdf4e\transformed\ui-tooling-release\res
+org.yomasoftware.project.composeApp-lifecycle-livedata-2.8.5-45 C:\Users\JACTJ\.gradle\caches\transforms-4\c9404cc594261f7749f283d532ace9cd\transformed\lifecycle-livedata-2.8.5\res
+org.yomasoftware.project.composeApp-ui-unit-release-46 C:\Users\JACTJ\.gradle\caches\transforms-4\cb34da1348e25011e0af2a332e0ca64c\transformed\ui-unit-release\res
+org.yomasoftware.project.composeApp-emoji2-views-helper-1.3.0-47 C:\Users\JACTJ\.gradle\caches\transforms-4\d1b539a460137b45264c7a1c2c45f4e2\transformed\emoji2-views-helper-1.3.0\res
+org.yomasoftware.project.composeApp-foundation-layout-release-48 C:\Users\JACTJ\.gradle\caches\transforms-4\d464eab5cbb139c9e65bfe0c73bdc786\transformed\foundation-layout-release\res
+org.yomasoftware.project.composeApp-graphics-path-1.0.1-49 C:\Users\JACTJ\.gradle\caches\transforms-4\d532c35804a2768607a69e485acaa10e\transformed\graphics-path-1.0.1\res
+org.yomasoftware.project.composeApp-material-ripple-release-50 C:\Users\JACTJ\.gradle\caches\transforms-4\dd88153cc400cc2ef6576a40d33482f1\transformed\material-ripple-release\res
+org.yomasoftware.project.composeApp-core-bundle-debug-51 C:\Users\JACTJ\.gradle\caches\transforms-4\de19367af48e9a2168b8765c7327781e\transformed\core-bundle-debug\res
+org.yomasoftware.project.composeApp-material-release-52 C:\Users\JACTJ\.gradle\caches\transforms-4\e29ae8b03ea8acc80ddeed4aac8c19c6\transformed\material-release\res
+org.yomasoftware.project.composeApp-lifecycle-livedata-core-ktx-2.8.5-53 C:\Users\JACTJ\.gradle\caches\transforms-4\ec90e1a177efd3958629c23bb68bd02e\transformed\lifecycle-livedata-core-ktx-2.8.5\res
+org.yomasoftware.project.composeApp-ui-util-release-54 C:\Users\JACTJ\.gradle\caches\transforms-4\ec94381e6b15e79ea7efe58b75761202\transformed\ui-util-release\res
+org.yomasoftware.project.composeApp-navigation-compose-2.8.0-55 C:\Users\JACTJ\.gradle\caches\transforms-4\f1a53298623368be8d3b0a6d23f3d99d\transformed\navigation-compose-2.8.0\res
+org.yomasoftware.project.composeApp-fragment-ktx-1.6.2-56 C:\Users\JACTJ\.gradle\caches\transforms-4\f1e38e63307f5d49c2fe7a4a36f3e6db\transformed\fragment-ktx-1.6.2\res
+org.yomasoftware.project.composeApp-material-icons-core-release-57 C:\Users\JACTJ\.gradle\caches\transforms-4\f48e961382f6a58f3cba2426c8ad19f5\transformed\material-icons-core-release\res
+org.yomasoftware.project.composeApp-pngs-58 C:\Users\JACTJ\ProyectosProgramacion\Kotlin MultiPlatform\MeetingWorkbooksOrganizer\composeApp\build\generated\res\pngs\debug
+org.yomasoftware.project.composeApp-resValues-59 C:\Users\JACTJ\ProyectosProgramacion\Kotlin MultiPlatform\MeetingWorkbooksOrganizer\composeApp\build\generated\res\resValues\debug
+org.yomasoftware.project.composeApp-packageDebugResources-60 C:\Users\JACTJ\ProyectosProgramacion\Kotlin MultiPlatform\MeetingWorkbooksOrganizer\composeApp\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+org.yomasoftware.project.composeApp-packageDebugResources-61 C:\Users\JACTJ\ProyectosProgramacion\Kotlin MultiPlatform\MeetingWorkbooksOrganizer\composeApp\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+org.yomasoftware.project.composeApp-debug-62 C:\Users\JACTJ\ProyectosProgramacion\Kotlin MultiPlatform\MeetingWorkbooksOrganizer\composeApp\build\intermediates\merged_res\debug\mergeDebugResources
+org.yomasoftware.project.composeApp-androidDebug-63 C:\Users\JACTJ\ProyectosProgramacion\Kotlin MultiPlatform\MeetingWorkbooksOrganizer\composeApp\src\androidDebug\res
+org.yomasoftware.project.composeApp-androidMain-64 C:\Users\JACTJ\ProyectosProgramacion\Kotlin MultiPlatform\MeetingWorkbooksOrganizer\composeApp\src\androidMain\res
+org.yomasoftware.project.composeApp-commonMain-65 C:\Users\JACTJ\ProyectosProgramacion\Kotlin MultiPlatform\MeetingWorkbooksOrganizer\composeApp\src\commonMain\resources
+org.yomasoftware.project.composeApp-debug-66 C:\Users\JACTJ\ProyectosProgramacion\Kotlin MultiPlatform\MeetingWorkbooksOrganizer\composeApp\src\debug\res
+org.yomasoftware.project.composeApp-main-67 C:\Users\JACTJ\ProyectosProgramacion\Kotlin MultiPlatform\MeetingWorkbooksOrganizer\composeApp\src\main\res

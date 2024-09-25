@@ -1,0 +1,8 @@
+<resources>
+    <string name= "one_min">1 Min</string>
+    <string name= "three_min">3 Min</string>
+    <string name= "introduction">Palabras de introducción</string>
+    <string name= "metting_part1">Tesoros de la biblia</string>
+    <string name= "metting_part2">Seamos mejores maestros</string>
+    <string name= "metting_part3">Nuestra vida cristiana</string>
+</resources>

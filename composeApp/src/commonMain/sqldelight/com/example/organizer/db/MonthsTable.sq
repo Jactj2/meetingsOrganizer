@@ -1,0 +1,31 @@
+CREATE TABLE MonthsTable (
+    idMonthlyMeeting INTEGER PRIMARY KEY NOT NULL,
+    title_meeting TEXT NOT NULL,
+    subtitle_meeting TEXT,
+    link_meeting TEXT NOT NULL,
+    dateMonth TEXT NOT NULL ,
+    dateDownload TEXT
+
+);
+
+CREATE INDEX monthlyMeetingSchedule_title_meeting ON MonthsTable(title_meeting);
+
+insertMonthDao:
+INSERT OR IGNORE INTO MonthsTable(idMonthlyMeeting,dateMonth,title_meeting,link_meeting)
+VALUES ?;
+
+readAll:
+SELECT * FROM MonthsTable ORDER BY dateMonth DESC;
+
+readAllUpdate:
+SELECT * FROM MonthsTable ORDER BY dateMonth DESC LIMIT 10;
+
+updateDownload:
+INSERT OR REPLACE INTO MonthsTable(idMonthlyMeeting,dateMonth,title_meeting,subtitle_meeting,link_meeting,dateDownload)
+VALUES ?;
+
+deleteByID:
+DELETE FROM MonthsTable WHERE idMonthlyMeeting IN ?;
+
+deleteAll:
+DELETE FROM MonthsTable;
